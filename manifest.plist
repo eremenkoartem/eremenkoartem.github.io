@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ya.ru</string>
+					<string>http://192.168.1.17/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ya.ru</string>
+					<string>https://thenextweb.com/wp-content/blogs.dir/1/files/2010/10/HootSuite_iPhone-owly-white.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ya.ru</string>
+					<string>https://thenextweb.com/wp-content/blogs.dir/1/files/2010/10/HootSuite_iPhone-owly-white.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
